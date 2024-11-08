@@ -23,3 +23,9 @@ Click below to try "distinctBy" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/distinctBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "filter" returns iterates over an array and applies an expression that returns matching values.
+ 
+Click below to try "filter" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/filter"><img width="300" src="/images/dwplayground-button.png"><a>
+
