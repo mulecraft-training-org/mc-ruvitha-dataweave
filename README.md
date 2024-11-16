@@ -41,3 +41,11 @@ Click below to try "filterObject" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/filterObject"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "find" returns indices of an input that match a specified value
+  
+Click below to try "find" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/find"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
+
