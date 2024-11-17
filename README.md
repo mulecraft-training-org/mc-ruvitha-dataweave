@@ -51,7 +51,7 @@ Click below to try "find" in DataWeave Playground:
   
 Click below to try "flatMap" in DataWeave Playground:
  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/flatMap"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft-training-org/mc-ruvitha-dataweave&path=dataweave/flatMap"><img width="300" src="/images/dwplayground-button.png"><a>
 
 #### This version of "flatten" turns a set of subarrays  into a single, flattened array.
   
