@@ -33,7 +33,7 @@ Click below to try "filter" in DataWeave Playground:
  
 Click below to try "filter" in DataWeave Playground:
  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/filter"><img width="300" src="/images/dwplayground-button.png"><a> This version of "filter" returns iterates over an array and applies an expression that returns matching values.#### This version of "filter" returns iterates over an array and applies an expression that returns matching values.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/filter"><img width="300" src="/images/dwplayground-button.png"><a> 
  
  #### This version of "filterObject" returns iterates over an array and applies an expression that returns only matching objects, filtering out the rest from the output.
   
@@ -46,6 +46,18 @@ Click below to try "filterObject" in DataWeave Playground:
 Click below to try "find" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/find"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "flatMap" iterates over each item in an array and flattens the results.
+  
+Click below to try "flatMap" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/flatMap"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "flatten" turns a set of subarrays  into a single, flattened array.
+  
+Click below to try "flatten" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/flatten"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
