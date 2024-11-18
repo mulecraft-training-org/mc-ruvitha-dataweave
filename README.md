@@ -57,7 +57,7 @@ Click below to try "flatMap" in DataWeave Playground:
   
 Click below to try "flatten" in DataWeave Playground:
  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-ruvitha-dataweave&path=dataweave/flatten"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/flatten"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
