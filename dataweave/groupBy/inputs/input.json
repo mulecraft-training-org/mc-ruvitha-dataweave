@@ -1,0 +1,10 @@
+{
+    "header": "Move Items",
+    "items": [
+        {"id": "internal","label": "Move Left"},
+        {"id": "left", "label": "Move Left"},
+        {"id": "right", "label": "Move Right"},
+        {"id": "up", "label": "Move Up"},
+        {"id": "down", "label": "Move Down"}
+    ]
+}
