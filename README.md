@@ -26,12 +26,6 @@ Click below to try "distinctBy" in DataWeave Playground:
  
 Click below to try "filter" in DataWeave Playground:
  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/filter"><img width="300" src="/images/dwplayground-button.png"><a>
-
-#### This version of "filter" returns iterates over an array and applies an expression that returns matching values.
- 
-Click below to try "filter" in DataWeave Playground:
- 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/filter"><img width="300" src="/images/dwplayground-button.png"><a> 
  
  #### This version of "filterObject" returns iterates over an array and applies an expression that returns only matching objects, filtering out the rest from the output.
