@@ -70,6 +70,13 @@ Click below to try "indexOf" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/indexOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "joinBy" merges an array into a single string value and uses the provided string as a separator 
+  
+Click below to try "joinBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/joinBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
