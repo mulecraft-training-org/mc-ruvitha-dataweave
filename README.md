@@ -70,6 +70,11 @@ Click below to try "joinBy" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/joinBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "keysOf" returns an array of keys from key-value pairs within the input object.
+  
+Click below to try "keysOf" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/keysOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
