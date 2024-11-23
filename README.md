@@ -76,6 +76,12 @@ Click below to try "keysOf" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/keysOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "map" iterates over items in an array and outputs the results into a new array
+  
+Click below to try "map" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/map"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
