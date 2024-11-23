@@ -82,6 +82,13 @@ Click below to try "map" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/map"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "unzip" performs the opposite of zip. It takes an array of arrays as input.
+  
+Click below to try "unzip" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/unzip"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
