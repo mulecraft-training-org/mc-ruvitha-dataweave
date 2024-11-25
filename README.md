@@ -88,6 +88,13 @@ Click below to try "unzip" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/unzip"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "namesOf" returns an array of strings with the names of all the keys within the given object.
+  
+Click below to try "namesOf" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/namesOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
