@@ -1,0 +1,6 @@
+[
+  { "merchantName": "HelloFresh"    },
+  { "merchantName": "Amazon"        },
+  { "merchantName": "Walmart"       },
+  { "merchantName": "Guitar Center" }
+]
