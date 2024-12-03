@@ -100,11 +100,18 @@ Click below to try "mapObject" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/mapObject"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### This version of "match" iterates over an object using a mapper.
+#### This version of "match" uses a Java regular expression (regex) to match a string and then separates it into capture groups. Returns the results in an array..
   
 Click below to try "match" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/match"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "matches" checks if an expression matches the entire input string..
+  
+Click below to try "matches" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/matches"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
