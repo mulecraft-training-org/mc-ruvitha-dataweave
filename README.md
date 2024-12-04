@@ -116,7 +116,7 @@ Click below to try "matches" in DataWeave Playground:
   
 Click below to try "max & maxBy" in DataWeave Playground:
  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/max & maxBy"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/max"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
