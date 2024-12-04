@@ -106,11 +106,17 @@ Click below to try "match" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/match"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### This version of "matches" checks if an expression matches the entire input string..
+#### This version of "matches" checks if an expression matches the entire input string.
   
 Click below to try "matches" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/matches"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "max" returns the highest Comparable value in an array & "maxBy" iterates over an array and returns the highest value of Comparable elements from it.
+  
+Click below to try "max & maxBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/max & maxBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
