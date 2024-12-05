@@ -118,6 +118,12 @@ Click below to try "max & maxBy" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/max"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "min" returns the lowest Comparable value in an array & "minBy" iterates over an array and returns the lowest value of Comparable elements from it.
+  
+Click below to try "min & minBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/min"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
