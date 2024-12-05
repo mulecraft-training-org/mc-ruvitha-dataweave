@@ -124,6 +124,13 @@ Click below to try "min & minBy" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/min"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "now" returns a DateTime value for the current date and time.
+
+Click below to try "now" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/now"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
