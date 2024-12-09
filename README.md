@@ -136,6 +136,12 @@ Click below to try "onNull" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/onNull"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "orderBy" function is used to sort a collection (such as an array or list) based on one or more criteria. It is commonly used to sort data in ascending or descending order.
+
+Click below to try "ordrBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/orderBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
