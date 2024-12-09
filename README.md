@@ -148,6 +148,12 @@ Click below to try "pluck" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/pluck"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "pow" raises the value of a base number to the specified power.
+
+Click below to try "pow" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/pow"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
