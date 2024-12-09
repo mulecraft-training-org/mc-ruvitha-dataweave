@@ -130,6 +130,13 @@ Click below to try "now" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/now"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "onNull" function if the preceding expression returns a null value and then replaces the null value with the result of the callback.
+
+Click below to try "onNull" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/onNull"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
