@@ -142,6 +142,12 @@ Click below to try "ordrBy" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/orderBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "pluck" iterates over an object and returns an array of keys, values, or indices from the object.
+
+Click below to try "pluck" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/pluck"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
