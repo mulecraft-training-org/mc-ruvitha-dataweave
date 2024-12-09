@@ -154,9 +154,9 @@ Click below to try "pow" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/pow"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### This version of "random" returns a pseudo-random number greater than or equal to 0.0 and less than 1.0.
+#### This version of "random" returns a pseudo-random number greater than or equal to 0.0 and less than 1.0 & "randomInt" returns a pseudo-random whole number from 0 to the specified number (exclusive).
 
-Click below to try "random" in DataWeave Playground:
+Click below to try "random"  & "randonInt" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/random"><img width="300" src="/images/dwplayground-button.png"><a>
 
