@@ -160,6 +160,18 @@ Click below to try "random"  & "randonInt" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/random"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "sqrt" returns the square root of a number.
+
+Click below to try "sqrt" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sqrt"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "sum" returns the sum of numeric values in an array.
+
+Click below to try "sum" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sum"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
