@@ -13,7 +13,7 @@ var variance= sum(payload.products
     "cheapestProduct":payload.products  minBy ((item) -> item.price),
     "sortedPrices":payload.products map ((item) ->item.price)orderBy $,
     "priceStatistics": {"averagePrice":data,
-                        "priceVariance":variance } ,
+                        "priceVariance":variance } 
 
 
 
