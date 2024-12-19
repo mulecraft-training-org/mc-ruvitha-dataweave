@@ -1,0 +1,31 @@
+input:
+{
+  "students": [
+    { "id": 1, "name": "Alice", "scores": [85, 90, 78] },
+    { "id": 2, "name": "Bob", "scores": [70, 75, 72] },
+    { "id": 3, "name": "Charlie", "scores": [95, 88, 92] },
+    { "id": 4, "name": "Diana", "scores": [65, 60, null] }
+  ],
+  "maxScore": 100
+}
+output:
+{
+  "topStudent": {
+    "name": "Charlie",
+    "averageScore": 91.67
+  },
+  "minAverageScore": 65,
+  "studentsWithRandomBoost": [
+    { "id": 1, "name": "Alice", "boostedScore": 92 },
+    { "id": 2, "name": "Bob", "boostedScore": 76 },
+    { "id": 3, "name": "Charlie", "boostedScore": 99 },
+    { "id": 4, "name": "Diana", "boostedScore": 67 }
+  ],
+  "currentTime": "2024-12-18T12:34:56.789Z"
+}
+Logic:
+Calculate the total score of each student and divide by the number of valid scores (ignoring null values).
+Find the student with the highest average score.
+Find the lowest average score among students.
+Add a random boost (1–10 points) to each student's average score.
+Include the current timestamp.
