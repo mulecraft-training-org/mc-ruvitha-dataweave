@@ -1,0 +1,13 @@
+{
+  "errorCount": 2,
+  "infoMessages": [
+    "Backup completed",
+    "System reboot"
+  ],
+  "sortedErrors": [
+    "Disk full",
+    "Network issue"
+  ],
+  "randomLog": "[INFO] System reboot - 2024-12-13",
+  "currentLogTime": "2024-12-19T17:45:52.736316Z"
+}
