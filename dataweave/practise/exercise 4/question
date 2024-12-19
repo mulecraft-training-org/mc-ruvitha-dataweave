@@ -1,0 +1,43 @@
+Input: 
+
+{ 
+
+  "products": [ 
+
+    { "id": 1, "name": "Laptop", "price": 1200.5 }, 
+
+    { "id": 2, "name": "Tablet", "price": 800.0 }, 
+
+    { "id": 3, "name": "Phone", "price": 500.75 }, 
+
+    { "id": 4, "name": "Smartwatch", "price": 250.0 } 
+
+  ], 
+
+  "taxRate": 0.18 
+
+} 
+
+ 
+
+Output: 
+
+{ 
+
+  "pricesWithTax": [1416.59, 944.0, 590.89, 295.0], 
+
+  "mostExpensiveProduct": { "id": 1, "name": "Laptop", "price": 1200.5 }, 
+
+  "cheapestProduct": { "id": 4, "name": "Smartwatch", "price": 250.0 }, 
+
+  "sortedPrices": [250.0, 500.75, 800.0, 1200.5], 
+
+  "priceStatistics": { 
+
+    "averagePrice": 687.81, 
+
+    "priceVariance": 173252.13 
+
+  } 
+
+}  
