@@ -1,0 +1,137 @@
+Input
+{
+  "logs": [
+    "[ERROR] Disk full - 2024-12-16",
+    "[INFO] Backup completed - 2024-12-15",
+    "[ERROR] Network issue - 2024-12-14",
+    "[INFO] System reboot - 2024-12-13"
+  ]
+}
+
+Output
+{
+  "errorCount": 2,
+  "infoMessages": ["Backup completed", "System reboot"],
+  "sortedErrors": ["Disk full", "Network issue"],
+  "randomLog": "[INFO] System reboot - 2024-12-13",
+  "currentLogTime": "2024-12-18T12:34:56.789Z"
+}
+
+Yogesh 
+yesterday
+
+Hi @Ruvitha I added the challenge 
+
+ 
+
+ 
+
+Challenge 1: Student Performance Analysis
+Input:
+
+
+{
+  "students": [
+    { "id": 1, "name": "Alice", "scores": [85, 90, 78] },
+    { "id": 2, "name": "Bob", "scores": [70, 75, 72] },
+    { "id": 3, "name": "Charlie", "scores": [95, 88, 92] },
+    { "id": 4, "name": "Diana", "scores": [65, 60, null] }
+  ],
+  "maxScore": 100
+}
+Output:
+
+
+{
+  "topStudent": {
+    "name": "Charlie",
+    "averageScore": 91.67
+  },
+  "minAverageScore": 65,
+  "studentsWithRandomBoost": [
+    { "id": 1, "name": "Alice", "boostedScore": 92 },
+    { "id": 2, "name": "Bob", "boostedScore": 76 },
+    { "id": 3, "name": "Charlie", "boostedScore": 99 },
+    { "id": 4, "name": "Diana", "boostedScore": 67 }
+  ],
+  "currentTime": "2024-12-18T12:34:56.789Z"
+}
+Logic:
+Calculate the total score of each student and divide by the number of valid scores (ignoring null values).
+
+Find the student with the highest average score.
+
+Find the lowest average score among students.
+
+Add a random boost (1–10 points) to each student's average score.
+
+Include the current timestamp.
+
+Challenge 2: Product Price Management
+Input:
+
+
+{
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 1200.5 },
+    { "id": 2, "name": "Tablet", "price": 800.0 },
+    { "id": 3, "name": "Phone", "price": 500.75 },
+    { "id": 4, "name": "Smartwatch", "price": 250.0 }
+  ],
+  "taxRate": 0.18
+}
+Output:
+
+
+{
+  "pricesWithTax": [1416.59, 944.0, 590.89, 295.0],
+  "mostExpensiveProduct": { "id": 1, "name": "Laptop", "price": 1200.5 },
+  "cheapestProduct": { "id": 4, "name": "Smartwatch", "price": 250.0 },
+  "sortedPrices": [250.0, 500.75, 800.0, 1200.5],
+  "priceStatistics": {
+    "averagePrice": 687.81,
+    "priceVariance": 173252.13
+  }
+}
+Logic:
+Apply the tax to each product price.
+
+Identify the most expensive and cheapest products.
+
+Sort prices in ascending order.
+
+Calculate the average price and variance of prices.
+
+Challenge 3: Log File Analysis
+Input:
+
+
+{
+  "logs": [
+    "[ERROR] Disk full - 2024-12-16",
+    "[INFO] Backup completed - 2024-12-15",
+    "[ERROR] Network issue - 2024-12-14",
+    "[INFO] System reboot - 2024-12-13"
+  ]
+}
+Output:
+
+
+{
+  "errorCount": 2,
+  "infoMessages": ["Backup completed", "System reboot"],
+  "sortedErrors": ["Disk full", "Network issue"],
+  "randomLog": "[INFO] System reboot - 2024-12-13",
+  "currentLogTime": "2024-12-18T12:34:56.789Z"
+}
+
+Logic:
+Find [ERROR] logs and count them.
+
+Extract and collect [INFO] messages.
+
+Extract and sort error messages alphabetically.
+
+Select a random log message.
+
+Include the current timestamp.
