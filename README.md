@@ -174,6 +174,7 @@ Click below to try "sum" in DataWeave Playground:
 
 
 **Task**
+
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 3"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
