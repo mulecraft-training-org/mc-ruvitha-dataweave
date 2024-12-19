@@ -1,0 +1,9 @@
+{
+  "students": [
+    { "id": 1, "name": "Alice", "scores": [85, 90, 78] },
+    { "id": 2, "name": "Bob", "scores": [70, 75, 72] },
+    { "id": 3, "name": "Charlie", "scores": [95, 88, 92] },
+    { "id": 4, "name": "Diana", "scores": [65, 60, null] }
+  ],
+  "maxScore": 100
+}
