@@ -1,0 +1,8 @@
+{
+  "logs": [
+    "[ERROR] Disk full - 2024-12-16",
+    "[INFO] Backup completed - 2024-12-15",
+    "[ERROR] Network issue - 2024-12-14",
+    "[INFO] System reboot - 2024-12-13"
+  ]
+}
