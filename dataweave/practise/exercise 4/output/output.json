@@ -1,0 +1,28 @@
+{
+  "pricesWithTax": [
+    1416.59,
+    944,
+    590.885,
+    295
+  ],
+  "mostExpensiveProduct": {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1200.5
+  },
+  "cheapestProduct": {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 250
+  },
+  "sortedPrices": [
+    250,
+    500.75,
+    800,
+    1200.5
+  ],
+  "priceStatistics": {
+    "averagePrice": 687.8125,
+    "priceVariance": 125526.66796875
+  }
+}
