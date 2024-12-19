@@ -1,0 +1,35 @@
+{
+  "topStudent": {
+    "name": "Charlie",
+    "averagescores": "91.67"
+  },
+  "minAverageScore": [
+    "84.33",
+    "72.33",
+    "91.67",
+    "41.67"
+  ],
+  "studentsWithRandomBoost": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "boostedscores": "88.33"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "boostedscores": "73.33"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "boostedscores": "91.67"
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "boostedscores": "48.67"
+    }
+  ],
+  "currentTime": "2024-12-19T04:58:20.425062Z"
+}
