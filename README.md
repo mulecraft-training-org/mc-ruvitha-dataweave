@@ -187,6 +187,15 @@ S1.Task -3
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 5"><img width="300" src="/images/dwplayground-button.png"><a>
 
+Sprint : 2
+
+#### This version of "reduce" function is used to combine all elements of a collection into a single value..
+
+Click below to try "reduce" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/reduce"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
