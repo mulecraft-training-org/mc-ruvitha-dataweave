@@ -189,17 +189,30 @@ S1.Task -3
 
 Sprint : 2
 
-#### This version of "reduce" function is used to combine all elements of a collection into a single value..
+#### This version of "reduce" function is used to reduction expression to the elements in an array.
 
 Click below to try "reduce" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/reduce"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### This version of "replace" function is used to combine all elements of a collection into a single value..
+#### This version of "replace" function is used to combine all elements of a collection into a single value.
 
 Click below to try "replace" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/replace"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "round" function is used to Rrounds a number up or down to the nearest whole number.
+
+Click below to try "round" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/round"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "sizeOf" function is used to returns the number of elements in an array.
+
+Click below to try "sizeOf" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sizeOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
