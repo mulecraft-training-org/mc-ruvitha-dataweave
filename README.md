@@ -225,6 +225,31 @@ Click below to try "scan" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/scan"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "trim" function is used to returns an array with all of the matches found in an input string followed by any capture groups in your regular expression
+
+Click below to try "trim" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/trim"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "then" function works as a pipe that passes the value returned from the preceding expression to the next (a callback) only if the value returned by the preceding expression is not null
+
+Click below to try "then" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/then"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "to" function is used to returns a range with the specified boundaries
+
+Click below to try "to" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/to"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "typeOf" function is used to returns the type of a value
+
+Click below to try "typeOf" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/typeOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
