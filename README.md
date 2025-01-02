@@ -213,6 +213,14 @@ Click below to try "sizeOf" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sizeOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "startsWith" function is used toReturns true or false depending on whether the input string starts with a matching prefix.
+
+Click below to try "startsWith" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/startswith"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
+
 
 
 
