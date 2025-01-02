@@ -213,11 +213,17 @@ Click below to try "sizeOf" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sizeOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
-#### This version of "startsWith" function is used toReturns true or false depending on whether the input string starts with a matching prefix.
+#### This version of "startsWith" function is used to returns true or false depending on whether the input string starts with a matching prefix.
 
 Click below to try "startsWith" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/startswith"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "scan" function is used to returns an array with all of the matches found in an input string followed by any capture groups in your regular expression
+
+Click below to try "scan" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/scan"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
 
