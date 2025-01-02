@@ -1,4 +1,7 @@
 %dw 2.0
 output application/json
 ---
-[ "Mari" startsWith("Mar"), "Mari" startsWith("Em") ]
+{
+    "1": "Mari" startsWith("Mar"),
+    "2":"Mari" startsWith("m")
+}
