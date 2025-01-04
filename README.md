@@ -249,6 +249,37 @@ Click below to try "typeOf" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/typeOf"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "zip" function is used to merge elements from two arrays into an array of arrays.
+
+Click below to try "zip" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/zip"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "upper" function is used to returns the provided string in uppercase characters.
+
+Click below to try "upper" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/upper"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "uuid" function is used to returns a v4 UUID using random numbers as the source.
+
+Click below to try "uuid" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/uuid"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "valuesOf" function is used to returns an array of the values from key-value pairs in an object.
+
+Click below to try "valuesOf" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/valuesOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "with" function is used to function is used with replace, update or mask to perform data substitutions.
+
+Click below to try "with" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/with"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
