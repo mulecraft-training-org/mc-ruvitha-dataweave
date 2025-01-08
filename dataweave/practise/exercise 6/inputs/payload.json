@@ -1,0 +1,12 @@
+{
+  "crops": [
+    {
+      "name": "Wheat",
+      "yield": 3.5
+    },
+    {
+      "name": "Corn",
+      "yield": 4.2
+    }
+  ]
+}
