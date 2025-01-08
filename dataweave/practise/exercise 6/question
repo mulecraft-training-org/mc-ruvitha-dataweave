@@ -1,0 +1,24 @@
+Input
+
+{
+  "crops": [
+    {
+      "name": "Wheat",
+      "yield": 3.5
+    },
+    {
+      "name": "Corn",
+      "yield": 4.2
+    }
+  ]
+}
+DataWeave Logic Requirements
+
+Use reduce to calculate total yield of crops
+Extract yield values from each crop
+Sum the yield values
+Expected Output
+
+{
+  "totalYield": 7.7
+}
