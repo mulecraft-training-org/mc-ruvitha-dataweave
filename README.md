@@ -280,6 +280,14 @@ Click below to try "with" in DataWeave Playground:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/with"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
+**Task**
+
+S2 - Task:1
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 6"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
+
 
 
 
