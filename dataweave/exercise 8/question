@@ -1,0 +1,18 @@
+Input
+
+{
+  "cropYield": {
+    "wheat": 1500,
+    "corn": 2000,
+    "soybean": 1200
+  }
+}
+DataWeave Logic Requirements
+
+Calculate the average of crop yields using valuesOf
+Round the result to two decimal places
+Expected Output
+
+{
+  "averageYield": 1566.67
+}
