@@ -1,0 +1,19 @@
+Input
+
+{
+  "energyConsumption": [
+    100,
+    200,
+    300,
+    400
+  ]
+}
+DataWeave Logic Requirements
+
+Use reduce to sum the energy consumption values
+Output the total consumption
+Expected Output
+
+{
+  "totalConsumption": 1000
+}
