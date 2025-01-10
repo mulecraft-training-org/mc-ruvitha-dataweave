@@ -1,0 +1,27 @@
+Input
+
+{
+  "logisticsData": [
+    {
+      "id": "1",
+      "status": "delivered"
+    },
+    {
+      "id": "2",
+      "status": "in transit"
+    },
+    {
+      "id": "3",
+      "status": "delivered"
+    }
+  ]
+}
+DataWeave Logic Requirements
+
+Use sizeOf to count the number of delivered items
+Filter the logistics data based on status
+Expected Output
+
+{
+  "deliveredCount": 2
+}
