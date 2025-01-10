@@ -290,6 +290,8 @@ S2 - Task:1
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 8"><img width="300" src="/images/dwplayground-button.png"><a>
 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 9"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
