@@ -1,0 +1,7 @@
+{
+  "cropYield": {
+    "wheat": 1500,
+    "corn": 2000,
+    "soybean": 1200
+  }
+}
