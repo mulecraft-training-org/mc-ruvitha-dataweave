@@ -1,0 +1,16 @@
+{
+  "logisticsData": [
+    {
+      "id": "1",
+      "status": "delivered"
+    },
+    {
+      "id": "2",
+      "status": "in transit"
+    },
+    {
+      "id": "3",
+      "status": "delivered"
+    }
+  ]
+}
