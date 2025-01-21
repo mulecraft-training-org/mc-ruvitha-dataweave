@@ -301,6 +301,31 @@ Click below to try "countBy" in DataWeave Playground:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/countBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
 
+#### This version of "divideBy" function is used to reduction expression to the elements in an array.
+
+Click below to try "divideBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/divideBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "drop" function is used to reduction expression to the elements in an array.
+
+Click below to try "drop" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/drop"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "dropWhile" function is used to reduction expression to the elements in an array.
+
+Click below to try "dropWhile" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/dropWhile"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "every" function is used to reduction expression to the elements in an array.
+
+Click below to try "every" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/every"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
