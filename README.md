@@ -292,6 +292,14 @@ S2 - Task:1
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 9"><img width="300" src="/images/dwplayground-button.png"><a>
 
+Sprint : 3
+
+#### This version of "countBy" function is used to reduction expression to the elements in an array.
+
+Click below to try "countBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/countBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
 
 
 
