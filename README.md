@@ -325,6 +325,44 @@ Click below to try "every" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/every"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "firstwith" function is used to reduction expression to the elements in an array.
+
+Click below to try "firstwith" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/firstwith"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "indexOf" function is used to reduction expression to the elements in an array.
+
+Click below to try "indexOf" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/indexOf"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "indexWhere" function is used to reduction expression to the elements in an array.
+
+Click below to try "indexWhere" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/indexWhere"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "splitAt" function is used to reduction expression to the elements in an array.
+
+Click below to try "splitAt" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/splitAt"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "splitWhere" function is used to reduction expression to the elements in an array.
+
+Click below to try "splitWhere" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/splitWhere"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "sumBy" function is used to reduction expression to the elements in an array.
+
+Click below to try "sumBy" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sumBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
+
 
 
 
