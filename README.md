@@ -361,6 +361,19 @@ Click below to try "sumBy" in DataWeave Playground:
  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/sumBy"><img width="300" src="/images/dwplayground-button.png"><a>
 
+#### This version of "joins" function is used to reduction expression to the elements in an array.
+
+Click below to try "joins" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/joins"><img width="300" src="/images/dwplayground-button.png"><a>
+
+#### This version of "some" function is used to reduction expression to the elements in an array.
+
+Click below to try "some" in DataWeave Playground:
+ 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/some"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
