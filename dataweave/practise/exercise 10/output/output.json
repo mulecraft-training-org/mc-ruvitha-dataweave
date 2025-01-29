@@ -1,0 +1,18 @@
+{
+  "completedProducts": [
+    {
+      "product": "Widget A",
+      "totalQuantity": 100
+    },
+    {
+      "product": "Widget C",
+      "totalQuantity": 200
+    },
+    {
+      "product": "Widget D",
+      "totalQuantity": 50
+    }
+  ],
+  "inProgressCount": 2,
+  "inProgressCount": 2
+}
