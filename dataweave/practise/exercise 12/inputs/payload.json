@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "amount": 1500,
+      "currency": "USD",
+      "date": "2023-10-01",
+      "category": "Investment"
+    },
+    {
+      "transactionId": "T002",
+      "amount": 200,
+      "currency": "USD",
+      "date": "2023-10-02",
+      "category": "Expense"
+    },
+    {
+      "transactionId": "T003",
+      "amount": 3000,
+      "currency": "USD",
+      "date": "2023-10-03",
+      "category": "Income"
+    },
+    {
+      "transactionId": "T004",
+      "amount": 450,
+      "currency": "USD",
+      "date": "2023-10-04",
+      "category": "Expense"
+    }
+  ]
+}
