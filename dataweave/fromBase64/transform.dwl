@@ -1,5 +1,5 @@
 %dw 2.0
-import fromBase64 from dw::core::Binaries
+import * from dw::core::Binaries
 output application/json
 ---
 {
