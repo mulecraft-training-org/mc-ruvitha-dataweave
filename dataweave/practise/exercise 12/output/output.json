@@ -1,0 +1,31 @@
+{
+  "summary": {
+    "totalIncome": 3000,
+    "totalExpense": 650,
+    "netSavings": 2350,
+    "transactionsByCategory": {
+      "Investment": [
+        {
+          "transactionId": "T001",
+          "amount": 1500
+        }
+      ],
+      "Expense": [
+        {
+          "transactionId": "T002",
+          "amount": 200
+        },
+        {
+          "transactionId": "T004",
+          "amount": 450
+        }
+      ],
+      "Income": [
+        {
+          "transactionId": "T003",
+          "amount": 3000
+        }
+      ]
+    }
+  }
+}
