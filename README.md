@@ -382,6 +382,11 @@ Task:2
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 11"><img width="300" src="/images/dwplayground-button.png"><a>
 
+Task:2
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-ruvitha-dataweave&path=dataweave/practise/exercise 12"><img width="300" src="/images/dwplayground-button.png"><a>
+
+
 
 
 
